@@ -2,7 +2,7 @@
 
 ## NAME: RADHIMEENA M
 ## REG.NO: 212223040159
-## DATE: 07.10.2024
+## DATE: 04.11.2024
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
